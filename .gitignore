@@ -1,0 +1,28 @@
+# Too large for GitHub (over 100 MB) - attached to Release v1.0
+Books/Computational Mathematics*.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+*.user
+*.suo
+*.pyperf
+*.db
+*.vsidx
+
+# Office lock files
+~$*
+
+# OS files
+Thumbs.db
+desktop.ini
+.DS_Store

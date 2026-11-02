@@ -1,0 +1,13 @@
+* text=auto
+*.py text diff=python
+*.md text
+*.txt text
+*.sln text eol=crlf
+*.pyproj text eol=crlf
+*.ipynb binary
+*.pdf binary
+*.docx binary
+*.pptx binary
+*.mp4 binary
+*.png binary
+*.webp binary
