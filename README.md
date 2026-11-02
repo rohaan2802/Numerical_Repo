@@ -18,19 +18,35 @@ My Numerical Computing course work – nine lectures with Jupyter notebooks, Pyt
 
 ## Live Links
 
-| Link | Description |
+| What | Link |
 |---|---|
-| [Website](https://rohaan2802.github.io/Numerical_Computing_Repo/) | rohaan2802.github.io/Numerical_Computing_Repo/ |
-| [Repository](https://github.com/rohaan2802/Numerical_Computing_Repo) | github.com/rohaan2802/Numerical_Computing_Repo |
-| [Download ZIP](https://github.com/rohaan2802/Numerical_Computing_Repo/archive/refs/heads/main.zip) | The whole repository in one file |
-| [Lectures 1–9](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2301) | Lecture slides and notebooks, starting at Lecture 1 |
-| [Assignments](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Assignments) | Assignment statements and my solutions |
-| [Exams](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Exams) | Sessional papers and solutions |
-| [Quizzes](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Quiz%20%26%20Sessional) | Quiz papers |
-| [Final Project](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/NC_Final_Project) | HPCG project brief, rubric and guide |
-| [Notes](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Notes) | Study notes and supporting material |
-| [Textbooks](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Books) | Course reference books |
-| [Release v1.0](https://github.com/rohaan2802/Numerical_Computing_Repo/releases/tag/v1.0) | Computational Mathematics textbook (136 MB PDF) |
+| Repository | [rohaan2802/Numerical_Computing_Repo](https://github.com/rohaan2802/Numerical_Computing_Repo) |
+| Website (GitHub Pages) | [rohaan2802.github.io/Numerical_Computing_Repo](https://rohaan2802.github.io/Numerical_Computing_Repo/) |
+| Releases page | [Releases](https://github.com/rohaan2802/Numerical_Computing_Repo/releases) |
+| Release v1.0 | [v1.0 – Computational Mathematics textbook](https://github.com/rohaan2802/Numerical_Computing_Repo/releases/tag/v1.0) |
+| Download: Computational Mathematics textbook (~130 MB) | [Computational-Mathematics-Numerical-Analysis-with-Python.pdf](https://github.com/rohaan2802/Numerical_Computing_Repo/releases/download/v1.0/Computational-Mathematics-Numerical-Analysis-with-Python.pdf) |
+| Download whole repository (ZIP) | [main.zip](https://github.com/rohaan2802/Numerical_Computing_Repo/archive/refs/heads/main.zip) |
+| Course folder | [Lecture #01](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2301) |
+| Course folder | [Lecture #02](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2302) |
+| Course folder | [Lecture #03](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2303) |
+| Course folder | [Lecture #04](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2304) |
+| Course folder | [Lecture #05](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2305) |
+| Course folder | [Lecture #06](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2306) |
+| Course folder | [Lecture #07](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2307) |
+| Course folder | [Lecture #08](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2308) |
+| Course folder | [Lecture #09](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2309) |
+| Course folder | [Assignments](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Assignments) |
+| Course folder | [Exams](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Exams) |
+| Course folder | [Quiz & Sessional](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Quiz%20%26%20Sessional) |
+| Course folder | [NC_Final_Project](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/NC_Final_Project) |
+| Study notes | [Bit-Shifting.md](https://github.com/rohaan2802/Numerical_Computing_Repo/blob/main/Notes/Bit-Shifting.md) |
+| Study notes | [Maps-in-CPP-and-Python.md](https://github.com/rohaan2802/Numerical_Computing_Repo/blob/main/Notes/Maps-in-CPP-and-Python.md) |
+| Study notes | [HPCG-Project-Setup-Guide.md](https://github.com/rohaan2802/Numerical_Computing_Repo/blob/main/NC_Final_Project/HPCG-Project-Setup-Guide.md) |
+| Other useful path | [Books](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Books) |
+| Other useful path | [Notes/Supporting Material](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Notes/Supporting%20Material) |
+| Other useful path | [HomeTask](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/HomeTask) |
+| Other useful path | [NC_Final_Project/Project_Rubric.pdf](https://github.com/rohaan2802/Numerical_Computing_Repo/blob/main/NC_Final_Project/Project_Rubric.pdf) |
+| Other useful path | [LICENSE](https://github.com/rohaan2802/Numerical_Computing_Repo/blob/main/LICENSE) |
 
 ---
 
