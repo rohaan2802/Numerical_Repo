@@ -24,7 +24,7 @@ My Numerical Computing course work – nine lectures with Jupyter notebooks, Pyt
 | Website (GitHub Pages)          | [https://rohaan2802.github.io/Numerical_Repo/](https://rohaan2802.github.io/Numerical_Repo/) |
 | Releases page | [https://github.com/rohaan2802/Numerical_Repo/releases](https://github.com/rohaan2802/Numerical_Repo/releases) |
 | Release v1.0 | [https://github.com/rohaan2802/Numerical_Repo/releases/tag/v1.0](https://github.com/rohaan2802/Numerical_Repo/releases/tag/v1.0) |
-| Download: Computational Mathematics textbook (~130 MB) | [https://github.com/rohaan2802/Numerical_Repo/releases/download/v1.0/Computational-Mathematics-Numerical-Analysis-with-Python.pdf](https://github.com/rohaan2802/Numerical_Repo/releases/download/v1.0/Computational-Mathematics-Numerical-Analysis-with-Python.pdf) |
+| Download: Computational Mathematics textbook (~130 MB) | [https://github.com/rohaan2802/Numerical_Repo/releases/download/v1.0/Computational.Mathematics.-.An.introduction.to.Numerical.Analysis.and.Scientific.Computing.with.Python.pdf](https://github.com/rohaan2802/Numerical_Repo/releases/download/v1.0/Computational.Mathematics.-.An.introduction.to.Numerical.Analysis.and.Scientific.Computing.with.Python.pdf) |
 | Download whole repository (ZIP) | [https://github.com/rohaan2802/Numerical_Repo/archive/refs/heads/main.zip](https://github.com/rohaan2802/Numerical_Repo/archive/refs/heads/main.zip) |
 
 ---
