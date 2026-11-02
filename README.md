@@ -10,7 +10,7 @@ My Numerical Computing course work – nine lectures with Jupyter notebooks, Pyt
 [![FAST-NUCES CS-2008](https://img.shields.io/badge/FAST--NUCES-CS--2008-166534?style=for-the-badge)](#course-overview)
 [![Python: NumPy, SciPy](https://img.shields.io/badge/Python-NumPy%20%7C%20SciPy-1e3a8a?style=for-the-badge)](#course-overview)
 [![Jupyter: Notebooks](https://img.shields.io/badge/Jupyter-Notebooks-6d28d9?style=for-the-badge)](#course-overview)
-[![Website](https://img.shields.io/badge/Website-Live-0b7285?style=for-the-badge)](https://rohaan2802.github.io/Numerical_Computing_Repo/)
+[![Website](https://img.shields.io/badge/Website-Live-0b7285?style=for-the-badge)](https://rohaan2802.github.io/Numerical_Repo/)
 
 </div>
 
@@ -20,33 +20,33 @@ My Numerical Computing course work – nine lectures with Jupyter notebooks, Pyt
 
 | What | Link |
 |---|---|
-| Repository | [rohaan2802/Numerical_Computing_Repo](https://github.com/rohaan2802/Numerical_Computing_Repo) |
-| Website (GitHub Pages) | [rohaan2802.github.io/Numerical_Computing_Repo](https://rohaan2802.github.io/Numerical_Computing_Repo/) |
-| Releases page | [Releases](https://github.com/rohaan2802/Numerical_Computing_Repo/releases) |
-| Release v1.0 | [v1.0 – Computational Mathematics textbook](https://github.com/rohaan2802/Numerical_Computing_Repo/releases/tag/v1.0) |
-| Download: Computational Mathematics textbook (~130 MB) | [Computational-Mathematics-Numerical-Analysis-with-Python.pdf](https://github.com/rohaan2802/Numerical_Computing_Repo/releases/download/v1.0/Computational-Mathematics-Numerical-Analysis-with-Python.pdf) |
-| Download whole repository (ZIP) | [main.zip](https://github.com/rohaan2802/Numerical_Computing_Repo/archive/refs/heads/main.zip) |
-| Course folder | [Lecture #01](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2301) |
-| Course folder | [Lecture #02](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2302) |
-| Course folder | [Lecture #03](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2303) |
-| Course folder | [Lecture #04](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2304) |
-| Course folder | [Lecture #05](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2305) |
-| Course folder | [Lecture #06](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2306) |
-| Course folder | [Lecture #07](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2307) |
-| Course folder | [Lecture #08](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2308) |
-| Course folder | [Lecture #09](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2309) |
-| Course folder | [Assignments](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Assignments) |
-| Course folder | [Exams](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Exams) |
-| Course folder | [Quiz & Sessional](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Quiz%20%26%20Sessional) |
-| Course folder | [NC_Final_Project](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/NC_Final_Project) |
-| Study notes | [Bit-Shifting.md](https://github.com/rohaan2802/Numerical_Computing_Repo/blob/main/Notes/Bit-Shifting.md) |
-| Study notes | [Maps-in-CPP-and-Python.md](https://github.com/rohaan2802/Numerical_Computing_Repo/blob/main/Notes/Maps-in-CPP-and-Python.md) |
-| Study notes | [HPCG-Project-Setup-Guide.md](https://github.com/rohaan2802/Numerical_Computing_Repo/blob/main/NC_Final_Project/HPCG-Project-Setup-Guide.md) |
-| Other useful path | [Books](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Books) |
-| Other useful path | [Notes/Supporting Material](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Notes/Supporting%20Material) |
-| Other useful path | [HomeTask](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/HomeTask) |
-| Other useful path | [NC_Final_Project/Project_Rubric.pdf](https://github.com/rohaan2802/Numerical_Computing_Repo/blob/main/NC_Final_Project/Project_Rubric.pdf) |
-| Other useful path | [LICENSE](https://github.com/rohaan2802/Numerical_Computing_Repo/blob/main/LICENSE) |
+| Repository | [rohaan2802/Numerical_Repo](https://github.com/rohaan2802/Numerical_Repo) |
+| Website (GitHub Pages) | [rohaan2802.github.io/Numerical_Repo](https://rohaan2802.github.io/Numerical_Repo/) |
+| Releases page | [Releases](https://github.com/rohaan2802/Numerical_Repo/releases) |
+| Release v1.0 | [v1.0 – Computational Mathematics textbook](https://github.com/rohaan2802/Numerical_Repo/releases/tag/v1.0) |
+| Download: Computational Mathematics textbook (~130 MB) | [Computational-Mathematics-Numerical-Analysis-with-Python.pdf](https://github.com/rohaan2802/Numerical_Repo/releases/download/v1.0/Computational-Mathematics-Numerical-Analysis-with-Python.pdf) |
+| Download whole repository (ZIP) | [main.zip](https://github.com/rohaan2802/Numerical_Repo/archive/refs/heads/main.zip) |
+| Course folder | [Lecture #01](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2301) |
+| Course folder | [Lecture #02](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2302) |
+| Course folder | [Lecture #03](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2303) |
+| Course folder | [Lecture #04](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2304) |
+| Course folder | [Lecture #05](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2305) |
+| Course folder | [Lecture #06](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2306) |
+| Course folder | [Lecture #07](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2307) |
+| Course folder | [Lecture #08](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2308) |
+| Course folder | [Lecture #09](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2309) |
+| Course folder | [Assignments](https://github.com/rohaan2802/Numerical_Repo/tree/main/Assignments) |
+| Course folder | [Exams](https://github.com/rohaan2802/Numerical_Repo/tree/main/Exams) |
+| Course folder | [Quiz & Sessional](https://github.com/rohaan2802/Numerical_Repo/tree/main/Quiz%20%26%20Sessional) |
+| Course folder | [NC_Final_Project](https://github.com/rohaan2802/Numerical_Repo/tree/main/NC_Final_Project) |
+| Study notes | [Bit-Shifting.md](https://github.com/rohaan2802/Numerical_Repo/blob/main/Notes/Bit-Shifting.md) |
+| Study notes | [Maps-in-CPP-and-Python.md](https://github.com/rohaan2802/Numerical_Repo/blob/main/Notes/Maps-in-CPP-and-Python.md) |
+| Study notes | [HPCG-Project-Setup-Guide.md](https://github.com/rohaan2802/Numerical_Repo/blob/main/NC_Final_Project/HPCG-Project-Setup-Guide.md) |
+| Other useful path | [Books](https://github.com/rohaan2802/Numerical_Repo/tree/main/Books) |
+| Other useful path | [Notes/Supporting Material](https://github.com/rohaan2802/Numerical_Repo/tree/main/Notes/Supporting%20Material) |
+| Other useful path | [HomeTask](https://github.com/rohaan2802/Numerical_Repo/tree/main/HomeTask) |
+| Other useful path | [NC_Final_Project/Project_Rubric.pdf](https://github.com/rohaan2802/Numerical_Repo/blob/main/NC_Final_Project/Project_Rubric.pdf) |
+| Other useful path | [LICENSE](https://github.com/rohaan2802/Numerical_Repo/blob/main/LICENSE) |
 
 ---
 
@@ -96,39 +96,39 @@ Numerical Computing (CS-2008) at FAST-NUCES Islamabad. The repository has nine l
 
 | Lecture | Topic | Covers |
 |---|---|---|
-| 01 | [Computer arithmetic and sources of error](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2301) | Fixed and floating point, IEEE 754, machine epsilon, round-off and truncation error |
-| 02 | [Catastrophic cancellation](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2302) | Loss of significance when subtracting nearly equal numbers, and how to rewrite formulas |
-| 03 | [Roots of equations](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2303) | Bisection, fixed-point iteration, Newton–Raphson and secant methods, with a Python notebook |
-| 04 | [Interpolation and approximation](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2304) | Linear, quadratic, Lagrange and Newton interpolation, least squares, splines |
-| 05 | [Numerical integration](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2305) | Rectangle, midpoint, trapezoidal and Simpson rules, Newton–Cotes, Richardson extrapolation |
-| 06 | [Numerical differentiation and ODEs](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2306) | Finite differences, Euler, improved Euler and Runge–Kutta methods |
-| 07 | [Systems of linear equations](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2307) | Gaussian elimination, LU factorisation, pivoting, iterative methods |
-| 08 | [Approximations and QR decomposition](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2308) | Gram–Schmidt process, QR, SVD and low-rank approximation (slides, notebook, video) |
-| 09 | [Python basics](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Lecture%20%2309) | Python, NumPy and Matplotlib refresher notebook |
+| 01 | [Computer arithmetic and sources of error](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2301) | Fixed and floating point, IEEE 754, machine epsilon, round-off and truncation error |
+| 02 | [Catastrophic cancellation](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2302) | Loss of significance when subtracting nearly equal numbers, and how to rewrite formulas |
+| 03 | [Roots of equations](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2303) | Bisection, fixed-point iteration, Newton–Raphson and secant methods, with a Python notebook |
+| 04 | [Interpolation and approximation](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2304) | Linear, quadratic, Lagrange and Newton interpolation, least squares, splines |
+| 05 | [Numerical integration](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2305) | Rectangle, midpoint, trapezoidal and Simpson rules, Newton–Cotes, Richardson extrapolation |
+| 06 | [Numerical differentiation and ODEs](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2306) | Finite differences, Euler, improved Euler and Runge–Kutta methods |
+| 07 | [Systems of linear equations](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2307) | Gaussian elimination, LU factorisation, pivoting, iterative methods |
+| 08 | [Approximations and QR decomposition](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2308) | Gram–Schmidt process, QR, SVD and low-rank approximation (slides, notebook, video) |
+| 09 | [Python basics](https://github.com/rohaan2802/Numerical_Repo/tree/main/Lecture%20%2309) | Python, NumPy and Matplotlib refresher notebook |
 
 ## Assignments, Exams and Project
 
 | Item | Folder | Contents |
 |---|---|---|
-| A1 | [Assignment 1](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Assignments/Assignment_01) | Root-finding methods compared for accuracy and time (Jupyter notebook) |
-| A2 | [Assignment 2](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Assignments/Assignment_02) | Interpolation – statement, my report and interpolation.py |
-| A3 | [Assignment 3](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Assignments/Assignment_03) | Python solution (Visual Studio Python project) |
-| HT | [Home task](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/HomeTask) | Python home task (Visual Studio Python project) |
-| E | [Exams](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Exams) | Sessional I and II papers, the S2 solution and sample answer sheets |
-| Q | [Quizzes](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Quiz%20%26%20Sessional) | Quiz 0–6 papers and solutions |
-| P | [Final project](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/NC_Final_Project) | HPCG kernel optimisation project: brief, rubric and setup guide |
+| A1 | [Assignment 1](https://github.com/rohaan2802/Numerical_Repo/tree/main/Assignments/Assignment_01) | Root-finding methods compared for accuracy and time (Jupyter notebook) |
+| A2 | [Assignment 2](https://github.com/rohaan2802/Numerical_Repo/tree/main/Assignments/Assignment_02) | Interpolation – statement, my report and interpolation.py |
+| A3 | [Assignment 3](https://github.com/rohaan2802/Numerical_Repo/tree/main/Assignments/Assignment_03) | Python solution (Visual Studio Python project) |
+| HT | [Home task](https://github.com/rohaan2802/Numerical_Repo/tree/main/HomeTask) | Python home task (Visual Studio Python project) |
+| E | [Exams](https://github.com/rohaan2802/Numerical_Repo/tree/main/Exams) | Sessional I and II papers, the S2 solution and sample answer sheets |
+| Q | [Quizzes](https://github.com/rohaan2802/Numerical_Repo/tree/main/Quiz%20%26%20Sessional) | Quiz 0–6 papers and solutions |
+| P | [Final project](https://github.com/rohaan2802/Numerical_Repo/tree/main/NC_Final_Project) | HPCG kernel optimisation project: brief, rubric and setup guide |
 
 ## Books and Notes
 
 | Folder | Contents |
 |---|---|
-| [Study notes](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Notes) | Bit shifting, and maps in C++ and Python |
-| [Supporting material](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Notes/Supporting%20Material) | Interpolation notebook, integration notes, worked examples and a video |
-| [Textbooks](https://github.com/rohaan2802/Numerical_Computing_Repo/tree/main/Books) | Numerical Methods for Engineers and a Python programming link |
+| [Study notes](https://github.com/rohaan2802/Numerical_Repo/tree/main/Notes) | Bit shifting, and maps in C++ and Python |
+| [Supporting material](https://github.com/rohaan2802/Numerical_Repo/tree/main/Notes/Supporting%20Material) | Interpolation notebook, integration notes, worked examples and a video |
+| [Textbooks](https://github.com/rohaan2802/Numerical_Repo/tree/main/Books) | Numerical Methods for Engineers and a Python programming link |
 
 ## Large Files
 
-GitHub does not accept files over 100 MB, so this textbook is attached to [Release v1.0](https://github.com/rohaan2802/Numerical_Computing_Repo/releases/tag/v1.0) instead of the repository:
+GitHub does not accept files over 100 MB, so this textbook is attached to [Release v1.0](https://github.com/rohaan2802/Numerical_Repo/releases/tag/v1.0) instead of the repository:
 
 | File | Size |
 |---|---|
@@ -137,7 +137,7 @@ GitHub does not accept files over 100 MB, so this textbook is attached to [Relea
 ## Folder Structure
 
 ```text
-Numerical_Computing_Repo/
+Numerical_Repo/
 ├── Assignments/
 │   ├── Assignment_01/                    (2 files)
 │   ├── Assignment_02/                    (5 files)
@@ -295,8 +295,8 @@ Numerical_Computing_Repo/
 ## Running the Code
 
 ```bash
-git clone https://github.com/rohaan2802/Numerical_Computing_Repo.git
-cd Numerical_Computing_Repo
+git clone https://github.com/rohaan2802/Numerical_Repo.git
+cd Numerical_Repo
 pip install numpy scipy matplotlib jupyter
 ```
 
